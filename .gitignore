@@ -1,1 +1,6 @@
-*.mov echo *.avi echo *.mkv
+*mp4
+*.mov
+*.avi
+*.mkv
+Thumbs.db
+desktop.ini
