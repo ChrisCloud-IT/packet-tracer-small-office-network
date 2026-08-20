@@ -1,10 +1,5 @@
-# Hi, I'm Chris 👋
-
-I'm developing practical, hands-on skills for **entry-level IT Support, Service Desk, Networking and Cloud Support roles**.
-
-My focus is not just studying theory — I'm building labs and projects that demonstrate troubleshooting, networking, operating-system and cloud skills.
-
-## 🖥️ Current Technical Focus
+# Small Office Business Network
+Cisco Packet Tracer networking project demonstrating
 
 * 🌐 Cisco networking and Packet Tracer labs
 * ☁️ Google Cloud Platform and Associate Cloud Engineer studies
